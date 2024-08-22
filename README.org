@@ -1,0 +1,10 @@
+* cm-utils
+
+cm-utils adds coroutine-like process constructs for realtime common
+music 2.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/ormf/cm-utils.git |
+| commit  | 49227d0                                  |
+| systems | cm-utils                                 |
+|---------+------------------------------------------|
