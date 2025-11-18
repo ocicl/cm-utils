@@ -5,6 +5,6 @@ music 2.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/ormf/cm-utils.git |
-| commit  | 49227d0                                  |
+| commit  | 6b15818                                  |
 | systems | cm-utils                                 |
 |---------+------------------------------------------|
